@@ -18,7 +18,7 @@
   The `:init` action will initialize the appliation's state.
 
   The `:form` action will only update the status atom, setting its state
-  to `:from`.
+  to `:form`.
 
   The `:greeting` action will send the entered name to the server and
   update the state to `:greeting` while adding `:name` and `:exists`
