@@ -4,7 +4,7 @@
   ClojureScript code which is being evaluated in the browser.
 
   If these tests do not run, the most likely reason is that you have not visited
-  the page http://localhost:8080/frash. Currently the client code for this page
+  the page http://localhost:8080/fresh. Currently the client code for this page
   does not get compiled until you visit the page."
   
   (:use [clojure.test]
