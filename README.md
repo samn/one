@@ -67,7 +67,6 @@ following commands to install and run One:
 
     git clone https://github.com/brentonashworth/one.git
     cd one
-    lein bootstrap
     lein repl
 
 At the REPL prompt which appears, type `(go)`. Your browser will
